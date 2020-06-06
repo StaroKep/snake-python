@@ -1,2 +1,2 @@
 # snake-python
-Snake game
+Змейка python
